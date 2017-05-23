@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{3940B446-3222-440E-8F75-EDD14E558FC2}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PaypalForXamarin.Droid PreferredExecutionTarget="Android.Android_ARMv7a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaypalForXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E5625D5C-AECE-49B7-B5D9-E88045758BDE" />
+</Properties>

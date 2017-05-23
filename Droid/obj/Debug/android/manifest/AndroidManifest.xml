@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.rughvi.paypalforxamarin">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <!-- for card.io card scanning -->
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+  <!-- for most things, including card.io - paypal -->
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="PaypalForXamarin" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <service android:name="com.paypal.android.sdk.payments.PayPalService" android:exported="false"></service>
+    <activity android:name="com.paypal.android.sdk.payments.PaymentActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.LoginActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.PayPalFuturePaymentActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.FuturePaymentConsentActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.PayPalProfileSharingActivity" />
+    <activity android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity" />
+    <activity android:name="io.card.payment.CardIOActivity" android:configChanges="keyboardHidden|orientation" />
+    <activity android:name="io.card.payment.DataEntryActivity" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="PaypalForXamarin.Droid" android:name="md5e45131148cd09e73d6b82c83d883a901.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.rughvi.paypalforxamarin.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.rughvi.paypalforxamarin" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

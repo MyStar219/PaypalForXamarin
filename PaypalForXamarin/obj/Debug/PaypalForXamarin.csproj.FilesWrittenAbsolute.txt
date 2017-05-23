@@ -1,0 +1,11 @@
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/PaypalForXamarin.UI.HomePage.xaml
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/PaypalForXamarin.UI.SettingsPage.xaml
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/HomePage.xaml.g.cs
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/SettingsPage.xaml.g.cs
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/bin/Debug/PaypalForXamarin.pdb
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/bin/Debug/PaypalForXamarin.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/PaypalForXamarin.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/obj/Debug/PaypalForXamarin.pdb
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/bin/Debug/Xamarin.Forms.Core.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalForXamarin/bin/Debug/Xamarin.Forms.Xaml.dll
