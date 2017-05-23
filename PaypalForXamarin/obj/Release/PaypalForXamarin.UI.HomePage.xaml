@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PaypalForXamarin.HomePage"
+BackgroundColor="White">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" Spacing="20" Padding="20,100,20,100">
+			<Button x:Name="btnBuyAnItem" Text="PayPal" TextColor="Black" HorizontalOptions="CenterAndExpand" BackgroundColor="Transparent"/>
+			<Label Text="PayPal Payment Integration" HorizontalOptions="CenterAndExpand" FontSize="12" TextColor="Gray"/>
+
+			<Button Image="gear39.png" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="50" HeightRequest="50" Clicked="OnSettingsClicked" BackgroundColor="Transparent"/>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
