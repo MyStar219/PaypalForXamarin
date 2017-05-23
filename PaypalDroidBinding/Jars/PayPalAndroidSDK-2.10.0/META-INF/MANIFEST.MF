@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Vendor: PayPal, Inc.
+Implementation-Title: PayPal Android SDK
+Implementation-Version: eb2c9cf082a9a0bfa8402c96d2d5c799ad2648b5
+

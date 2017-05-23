@@ -1,0 +1,6 @@
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalDroidBinding/obj/Debug/MonoAndroid,Version=v7.1.AssemblyAttribute.cs
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalDroidBinding/obj/Debug/PaypalDroidBinding.Jars.PayPalAndroidSDK-2.10.0.jar
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalDroidBinding/bin/Debug/PaypalDroidBinding.pdb
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalDroidBinding/bin/Debug/PaypalDroidBinding.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalDroidBinding/obj/Debug/PaypalDroidBinding.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypalDroidBinding/obj/Debug/PaypalDroidBinding.pdb
