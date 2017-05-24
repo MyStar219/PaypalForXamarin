@@ -1,0 +1,5 @@
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypaliOSBinding/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypaliOSBinding/bin/Debug/PaypaliOSBinding.pdb
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypaliOSBinding/bin/Debug/PaypaliOSBinding.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypaliOSBinding/obj/Debug/PaypaliOSBinding.dll
+/Users/admin/Documents/work/Xamarin/My job/PaypalForXamarin/PaypaliOSBinding/obj/Debug/PaypaliOSBinding.pdb
